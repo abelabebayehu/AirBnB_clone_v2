@@ -7,7 +7,7 @@ This repository contains the initial stage of a student project to build a clone
 
 ---
 ## Installation
-* Clone This Repo `git clone https://github.com/salahbesbes/AirBnB_clone.git`
+* Clone This Repo `git clone https://github.com/abelabebayehu/AirBnB_clone.git`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
