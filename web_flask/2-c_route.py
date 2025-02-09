@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-flask model
+A flask model
 """
 from flask import Flask
 
